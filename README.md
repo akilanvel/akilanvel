@@ -22,6 +22,6 @@ const akilan = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people</b> so feel free to say <b>[hello](https://discordapp.com/users/809923508040892447)</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people</b> so feel free to say <b>[hello](https://discordapp.com/users/244652894534631425)</b> :)</em>
 
 ---
