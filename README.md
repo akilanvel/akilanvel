@@ -16,7 +16,7 @@ const akilan = {
   tools: [AWS, Postman, Linux, Docker, MongoDB, Git],
   contact_information: {
                           email: "akilan.gnanavel@gmail.com",
-                          linkedin: "linkedin.com/in/akilangnanavel/)",
+                          linkedin: "linkedin.com/in/akilangnanavel/",
                           github: "you're already here :)"
                        }
 }
