@@ -1,6 +1,6 @@
 <h2> Hi, I'm Akilan Gnanavel! <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
-<p><em>B.S. Computer Science at the <a href="https://www.utdallas.edu/">University of Texas at Dallas</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Development Engineer at <a href="https://www.incedoinc.com/">Fidelity</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>B.S. Computer Science at the <a href="https://www.utdallas.edu/">University of Texas at Dallas</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Development Engineer at <a href="https://www.fidelity.com/">Fidelity</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: akilangnanavel](https://img.shields.io/badge/-akilangnanavel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akilangnanavel/)](https://www.linkedin.com/in/akilangnanavel/)
